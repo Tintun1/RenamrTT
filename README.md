@@ -12,8 +12,10 @@ Este script en Bash permite renombrar de forma automática los archivos dentro d
 - Renombra todos los archivos en la carpeta, asignando nombres en formato `NuevoNombre1`, `NuevoNombre2`, etc.
 
 ## 📂 Instalación
-
-No se requiere instalación. Solo necesitas tener Bash en tu sistema.
+- Clonar el repositorio
+```bash
+git clone https://github.com/Tintun1/RenamrTT.git
+```
 
 ## 🛠 Uso
 
